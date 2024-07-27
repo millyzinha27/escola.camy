@@ -7,8 +7,10 @@
 
 .section1 {
     background-color: rgba(241, 58, 12, 0.87);
+    padding: 100px;
 }
 
 .section2 {
-    background-color: black;
+    background-color: rgb(201, 0, 0);
+    padding: 100px;
 }
