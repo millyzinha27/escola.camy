@@ -1,8 +1,8 @@
 .cabecalho {
-    background-color: rgb(255, 204, 127);
+
     color: black;
     display: flex;
-
+    background-image: linear-gradient(rgb(255, 204, 127), rgba(241, 58, 12, 0.87));
 }
 
 .section1 {
@@ -13,8 +13,8 @@
 .section2 {
     background-color: rgb(201, 0, 0);
     padding: 100px;
- }
+}
 
- .cabecalho-imagem{
+.cabecalho-imagem {
     width: 10px;
- }
+}
