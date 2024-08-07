@@ -2,7 +2,7 @@
     background-color: rgb(255, 204, 127);
     color: black;
     display: flex;
-    padding: 24px
+
 }
 
 .section1 {
@@ -16,5 +16,5 @@
  }
 
  .cabecalho-imagem{
-    width: 2%;
+    width: 10px;
  }
