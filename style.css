@@ -1,17 +1,17 @@
 .cabecalho {
-
+background-image: linear-gradient(aqua, white);
     color: black;
     display: flex;
-    background-image: linear-gradient(rgb(255, 204, 127), rgba(241, 58, 12, 0.87));
+  
 }
 
 .section1 {
-    background-color: rgba(241, 58, 12, 0.87);
+    background-image: linear-gradient(white, red);
     padding: 100px;
 }
 
 .section2 {
-    background-color: rgb(201, 0, 0);
+    background-image: linear-gradient(red,black);
     padding: 100px;
 }
 
