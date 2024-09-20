@@ -11,13 +11,13 @@ background-image: linear-gradient(black, orange);
 }
 
 .section1 {
-    background-image: linear-gradient(orange,black ));
+    background-image: linear-gradient(orange,black );
     padding: 100px;
 }
 
 .section2 {
     background-image: linear-gradient(black,darkorange );
-    );
+    ;
     padding: 100px;
 }
 
