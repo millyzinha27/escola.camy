@@ -1,18 +1,16 @@
-.corpodosite{
-    color:black
-}
+.cabecalho-imagem{white-space: nowrap;}
 
 
 
 .cabecalho {
-background-image: linear-gradient(black, orange);
+background-image: linear-gradient(rgb(247, 247, 247));
     display: flex;
   
 }
 
 .section1 {
-    background-image: linear-gradient(orange,black );
-    padding: 100px;
+    background-image: linear-gradient(rgb( )   );
+    padding;
 }
 
 .section2 {
